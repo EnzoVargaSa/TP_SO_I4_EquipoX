@@ -6,3 +6,7 @@ A- TESTING: BLUE (BETA)
 B- DESARROLLO: YELLOW (ALFA)
 C- MASTER: BLUE (se dejó BLUE al resolver el conflicto)
 D- Favicon: ver index.html en main
+E- Quedaron los 3 <p> en TESTING en orden: ZAVALAGA IMANOL 23:20, Sebastian Rojas 23:22, Enzo Vargas 23:24
+F- No hubo conflicto al hacer pull, Git pudo mezclar solo porque cada uno agrego su <p> en una linea distinta
+G- Se resolvio con merge automatico, solo se acepto el mensaje con :wq y despues se hizo push origin TESTING
+H- Push en orden: primero ALFA, despues BETA, por ultimo GAMMA (Enzo Vargas 23:24)
