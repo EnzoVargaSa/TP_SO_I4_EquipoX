@@ -1,0 +1,8 @@
+alfa:Imanol Zavalaga
+gamma:Enzo Vargas
+beta:Sebas Rojas
+
+A- TESTING: BLUE (BETA)
+B- DESARROLLO: YELLOW (ALFA)
+C- MASTER: BLUE (se dejó BLUE al resolver el conflicto)
+D- Favicon: ver index.html en main
